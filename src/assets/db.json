@@ -1,0 +1,14 @@
+{
+    "employeeModelObj": [
+      {
+        "id": 1,
+        "email": "Veeresh@gmail.com",
+        "salary": 75000
+      },
+      {
+        "id": 2,
+        "email": "sdadsd@gmail.com",
+        "salary": 50000
+      }
+    ]
+  }
